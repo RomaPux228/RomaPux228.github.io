@@ -1,13 +1,15 @@
 {
-  "main.js": "/static/js/main.6fc90a20.chunk.js",
-  "main.js.map": "/static/js/main.6fc90a20.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
-  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
-  "static/css/2.64694a9b.chunk.css": "/static/css/2.64694a9b.chunk.css",
-  "static/js/2.3b96c5fc.chunk.js": "/static/js/2.3b96c5fc.chunk.js",
-  "static/js/2.3b96c5fc.chunk.js.map": "/static/js/2.3b96c5fc.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.23e70815d00b42629c922745ee33f5d8.js": "/precache-manifest.23e70815d00b42629c922745ee33f5d8.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.64694a9b.chunk.css.map": "/static/css/2.64694a9b.chunk.css.map"
+  "files": {
+    "main.js": "RomaPux228.github.io/static/js/main.1d39bb74.chunk.js",
+    "main.js.map": "RomaPux228.github.io/static/js/main.1d39bb74.chunk.js.map",
+    "runtime-main.js": "RomaPux228.github.io/static/js/runtime-main.79264c36.js",
+    "runtime-main.js.map": "RomaPux228.github.io/static/js/runtime-main.79264c36.js.map",
+    "static/css/2.4e89ce74.chunk.css": "RomaPux228.github.io/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.0378b453.chunk.js": "RomaPux228.github.io/static/js/2.0378b453.chunk.js",
+    "static/js/2.0378b453.chunk.js.map": "RomaPux228.github.io/static/js/2.0378b453.chunk.js.map",
+    "index.html": "RomaPux228.github.io/index.html",
+    "precache-manifest.62002ca4c94dd3ba3c0d44e5786b7728.js": "RomaPux228.github.io/precache-manifest.62002ca4c94dd3ba3c0d44e5786b7728.js",
+    "service-worker.js": "RomaPux228.github.io/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "RomaPux228.github.io/static/css/2.4e89ce74.chunk.css.map"
+  }
 }
